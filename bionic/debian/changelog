@@ -1,3 +1,9 @@
+ignition-gazebo5 (5.4.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gazebo5 5.4.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 31 Mar 2022 16:41:51 -0700
+
 ignition-gazebo5 (5.3.0-2~bionic) bionic; urgency=medium
 
   * ignition-gazebo5 5.3.0-2 release
